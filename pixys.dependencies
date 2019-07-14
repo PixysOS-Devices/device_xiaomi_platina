@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "melvingb/vendor_xiaomi_platina",
+    "repository":  "nysadev/vendor_xiaomi_platina",
     "target_path": "vendor/xiaomi/platina",
     "branch":      "master"
   },
@@ -13,7 +13,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "melvingb/acrux_xiaomi_platina",
+    "repository":  "nysadev/acrux",
     "target_path": "kernel/xiaomi/platina",
     "branch":      "pie"
   }
